@@ -1,2 +1,2 @@
 # Aprendizado-de-Maquina-UFRRJ
-Implementações desenvolvidas durante a disciplina TEIA - Tópicos Especiais em Inteligência Artificial.
+Implementações desenvolvidas durante a disciplina Aprendizado de Máquina (TEIA) em Inteligência Artificial.
